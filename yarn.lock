@@ -4853,10 +4853,10 @@
   resolved "https://registry.yarnpkg.com/@uniswap/default-token-list/-/default-token-list-2.2.0.tgz#d85a5c2520f57f4920bd989dfc9f01e1b701a567"
   integrity sha512-vFPWoGzDjHP4i2l7yLaober/lZMmzOZXXirVF8XNyfNzRxgmYCWKO6SzKtfEUwxpd3/KUebgdK55II4Mnak62A==
 
-"@uniswap/default-token-list@^3.0.0":
-  version "3.2.0"
-  resolved "https://registry.yarnpkg.com/@uniswap/default-token-list/-/default-token-list-3.2.0.tgz#2a9c381dabf0062ef234cd4cca33aa156e5e3e45"
-  integrity sha512-3wqLMiNZT6WrvSwZL6KwnPKNH5/MAS0agvu/KgUbYs5a+eKURSfYpWLbAGA4yJPdqJLipQYXrQG2xdtXjn9WCA==
+"@uniswap/default-token-list@^5.2.0":
+  version "5.2.0"
+  resolved "https://registry.yarnpkg.com/@uniswap/default-token-list/-/default-token-list-5.2.0.tgz#68bed7fa8d9c31e93431cdb50c45f2984f5859ff"
+  integrity sha512-ipIuYdW/56xwNxR2Z0xB+kfWKraar9nYHS/Y0QOOQ0rpMM6fZ9ro8KKxsOOQF9irVpf20Fgusk2jLcL2TdPqAg==
 
 "@uniswap/governance@^1.0.2":
   version "1.0.2"
